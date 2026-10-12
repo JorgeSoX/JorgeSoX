@@ -1,16 +1,45 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge 👋
 
-<!--
-**JorgeSoX/JorgeSoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Desarrollo soluciones, aplicaciones y automatizaciones con inteligencia artificial, tanto en el ámbito profesional como en proyectos personales.
 
-Here are some ideas to get you started:
+⚙️ Trabajo con IA generativa, agentes de IA, herramientas de desarrollo asistido por IA e integraciones para transformar ideas y procesos en soluciones útiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aprendo y profundizo en las bases de la programación y la ingeniería de software para construir soluciones cada vez más sólidas, apoyándome en la IA durante el proceso de desarrollo.
+
+### 🛠️ Tecnologías y herramientas
+
+**Modelos de IA**
+- Claude, GPT (OpenAI) y Gemini
+- Modelos open-weight: Qwen, Llama, Ollama, vLLM
+
+**Desarrollo agéntico**
+- Claude Code, OpenCode y Códex
+- Skills, MCP y comandos personalizados
+- SDD (Spec-Driven Development)
+
+**Automatización e integraciones**
+- n8n
+- Make
+- APIs y webhooks
+
+**Backend, datos y desarrollo web**
+- Supabase y PostgreSQL
+- Neo4j
+- FastAPI, SQLAlchemy y Tailwind CSS
+
+**Fundamentos de desarrollo**
+- Python
+- SQL
+- Git
+- GitHub
+
+### 🚀 Qué hago
+
+- Desarrollo aplicaciones y herramientas con IA.
+- Automatizo procesos y tareas repetitivas.
+- Creo flujos de trabajo con agentes de IA e integraciones entre servicios.
+- Experimento con IA generativa para desarrollar nuevas soluciones.
+
+### 🎯 Mi enfoque
+
+Combinar inteligencia artificial, programación y automatización para convertir ideas en soluciones prácticas que aporten valor real.
