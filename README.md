@@ -8,9 +8,9 @@ Desarrollo soluciones, agentes y automatizaciones con IA generativa, combinando 
 
 ### 🛠️ Stack Principal
 
-- **🧠 IA & Agentes:** Claude, OpenAI, Gemini, Ollama, vLLM, MCP, SDD
+- **🧠 IA & Agentes:** Claude, OpenAI, Gemini, Ollama, vLLM, MCP, SDD, TDD
 - **⚙️ Automatización:** n8n, Make, APIs & Webhooks
-- **💻 Backend & Datos:** Python, FastAPI, Supabase, PostgreSQL, Neo4j
+- **💻 Backend & Datos:** Python, FastAPI, Supabase, PostgreSQL
 - **🛠️ Dev Tools:** Git, GitHub, Tailwind CSS
 
 ---
