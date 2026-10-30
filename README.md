@@ -1,18 +1,12 @@
 # ¡Hola! Soy Jorge 👋
 
-🤖 **AI Engineer & Automation Specialist**
+Autodidacta apasionado por la IA y la automatización. Aprendo construyendo, probando y rompiendo cosas.
 
-Desarrollo soluciones, agentes y automatizaciones con IA generativa, combinando modelos avanzados, ingeniería de software y flujos de trabajo inteligentes para transformar ideas en productos funcionales.
+## 🔧 Con qué trabajo
+- **IA:** Claude, OpenAI, Gemini, Ollama (modelos locales)
+- **Automatización:** n8n, Make, APIs y webhooks
+- **Código:** Python, SQL básico, Git/GitHub
+- **Extras:** Supabase, Vercel, Tailwind CSS
 
----
-
-### 🛠️ Stack Principal
-
-- **🧠 IA & Agentes:** Claude, OpenAI, Gemini, Ollama, vLLM, MCP, SDD, TDD
-- **⚙️ Automatización:** n8n, Make, APIs & Webhooks
-- **💻 Backend & Datos:** Python, FastAPI, Supabase, PostgreSQL
-- **🛠️ Dev Tools:** Git, GitHub, Tailwind CSS
-
----
-
-💡 *Convirtiendo ideas y procesos en soluciones útiles impulsadas por IA.*
+## 🌱 Qué busco
+Aprender a crear herramientas útiles con IA y automatización, y ganar experiencia real en proyectos.
